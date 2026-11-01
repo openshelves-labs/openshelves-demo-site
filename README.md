@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/assets/banner.svg" alt="OpenShelves demo site, the first sketch: where the reading room was drawn before it was built. An open sketchbook of page layouts and a pencil on a wooden desk." width="100%">
+  <img src="docs/assets/banner.svg" alt="OpenShelves demo site, the first sketch: where the reading room was drawn before it was built. A page layout pinned to a drafting board, with a T-square, a pot of pencils and a mug on a wooden desk." width="100%">
 </p>
 
 > [!WARNING]
